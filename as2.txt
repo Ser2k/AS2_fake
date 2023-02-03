@@ -1,0 +1,33 @@
+github
+  1. repo "as2"
+  2. min 10 commit etmeli
+  3. 09.02.2023 sagat 21:00 cenli
+
+proyekt
+  1. bootstrap 5.3, bootstrap icons, aos
+  2. suratlar dogry ratio-da bolmaly
+  3. 6 olcegdede dogry gorkezmeli
+  4. fontlary dogry bolmaly
+  5. renkler dogry bolmaly
+  6. clean code bolmaly
+  7. extra (animation, splidejs, ...)
+
+1 NurmuhammetB
+2 Muhammetali
+3 Orazmyrat
+4 Ogulşeker
+5 Eziz
+6 Resul
+7 Abdylmälik
+8 Şazada
+9 Mukam
+10 Dawut
+11 NurmuhammetG
+12 Hamza
+13 Ogulnabat
+14 Döwran
+15 Iskender
+16 Muhammetemir
+17 Seýdylla
+18 Erkin
+19 Serdargeldi
